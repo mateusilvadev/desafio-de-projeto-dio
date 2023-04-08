@@ -1,0 +1,13 @@
+Introdução ao Git e GitHub
+Este é um guia básico para ajudar iniciantes a entenderem os conceitos fundamentais do Git e GitHub.
+
+O que é o Git?
+O Git é um sistema de controle de versão distribuído, que permite que você acompanhe as mudanças no 
+código fonte durante o desenvolvimento de software. Ele mantém um histórico de todas as alterações feitas,
+ o que ajuda a gerenciar conflitos e a manter o controle sobre as mudanças realizadas no código.
+
+O que é o GitHub?
+O GitHub é uma plataforma de hospedagem de código fonte que utiliza o Git como sistema de controle 
+de versão. Ele permite que você hospede repositórios Git em sua plataforma e trabalhe com outras pessoas 
+em projetos em colaboração. O GitHub também oferece recursos como rastreamento de problemas, 
+gerenciamento de projetos e uma série de outras ferramentas para ajudá-lo a trabalhar mais efetivamente em seus projetos.
